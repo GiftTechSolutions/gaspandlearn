@@ -1,0 +1,36 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+/*-------navigation bar--------*/
+#navv
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+.span
+
+{
+  color:  pink!important;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.body{
+  padding-top: 20px;
+  font-size: 25px;
+}
+.pad{
+	padding-top: 20px;
+}
+.card{
+  padding-top: 10px;
+}
+.card-body{
+  background-color: pink;
+}
